@@ -35,4 +35,4 @@
             file: ./Dockerfile
             platforms: linux/amd64
             push: true
-            tags: srmisra/python-helloworld:latestz
+            tags: srimant/python-helloworld:latestz
