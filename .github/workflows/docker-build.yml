@@ -33,5 +33,5 @@
             context: .
             file: ./Dockerfile
             platforms: linux/amd64
-            push:true
+            push: true
             tags: srmisra/python-helloworld:latestz
